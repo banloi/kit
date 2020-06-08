@@ -1,2 +1,1 @@
-# kit
-tools and solutions
+整理一下常用的软件，方便日后重装系统
